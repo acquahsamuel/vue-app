@@ -1,3 +1,4 @@
+<template>
 <svg
   width="40"
   height="40"
@@ -23,3 +24,5 @@
     </linearGradient>
   </defs>
 </svg>
+
+</template>

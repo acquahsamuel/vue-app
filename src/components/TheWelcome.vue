@@ -12,38 +12,15 @@ import SpinnerIcon from "./icons/spinner.svg";
 </script>
 
 <template>
-  <WelcomeItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>Documentation</template>
-
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <!-- <Filter /> -->
-      <CustomerIcon />
-    </template>
-    <template #heading> Testing </template>
-
+ 
   
-  </WelcomeItem>
 
+ <div class="bg-blue-200">
+    Demo 
+ </div>
  
 
-  <WelcomeItem>
-    <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Support Vue</template>
-
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
-
-  </WelcomeItem>
-
+ 
 
 
   
