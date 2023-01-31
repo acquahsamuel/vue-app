@@ -67,9 +67,6 @@ import MenuIcon from "./icons/menu.vue"
           </div>
            
        </div>
-
-
-
     </div>
 
 
